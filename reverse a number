@@ -1,0 +1,6 @@
+write a python program to reverse the number
+n = int(input())
+n1 = str(n)
+n2 = n1[::-1]
+r = int(n2)
+print(r)
